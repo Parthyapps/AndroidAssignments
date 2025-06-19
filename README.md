@@ -1,4 +1,4 @@
-# 📊 Dashboard Feature - Sequence Diagram
+# 📊 Sequence Diagram
 
 ```mermaid
 sequenceDiagram
